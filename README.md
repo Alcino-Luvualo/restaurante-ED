@@ -21,7 +21,7 @@ O objetivo é apresentar um cardápio, informações do restaurante e um botão 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/restaurante-ed.git
+   git clone https://github.com/Alcino-Luvualo/restaurante-ed.git
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
